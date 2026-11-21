@@ -17,10 +17,4 @@
     <img width="60" alt="Bl" src="https://github.com/user-attachments/assets/b0ee1d1e-e8dc-48b3-ac15-75df2ccdcfa9" />
   </h3>
 
-  <p>
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦
-    <img width="20" alt="Trevo" src="https://github.com/user-attachments/assets/f6643d9e-0c98-4b50-9802-e35e63a3840e" />
-    ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  </p>
-
 </div>
