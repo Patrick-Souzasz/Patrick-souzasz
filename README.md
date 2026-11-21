@@ -3,9 +3,6 @@
 
   <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/d5e4c378-2fbc-4fbe-84b5-8f29e94d7880" />
 
-
-  <br>
-
   <strong>
     ━━━━━━━━━━━━━━━━━━━━━━━━━ ✦
     <img width="20" alt="Trevo" src="https://github.com/user-attachments/assets/f6643d9e-0c98-4b50-9802-e35e63a3840e" />
