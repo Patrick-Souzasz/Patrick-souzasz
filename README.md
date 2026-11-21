@@ -5,11 +5,11 @@
 
   <br>
 
-  <p>
+  <strong>
     ━━━━━━━━━━━━━━━━━━━━━━━━ ✦
     <img width="20" alt="Trevo" src="https://github.com/user-attachments/assets/f6643d9e-0c98-4b50-9802-e35e63a3840e" />
     ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  </p>
+  </strong>
 
   <h3>
     <img width="50" alt="Liebe" src="https://github.com/user-attachments/assets/4748ded7-0995-4cea-8355-2806d6fe3896" />
