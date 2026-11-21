@@ -10,9 +10,18 @@
   </strong>
 
   <h3>
-    <img width="50" alt="Liebe" src="https://github.com/user-attachments/assets/4748ded7-0995-4cea-8355-2806d6fe3896" />
+    <img width="45" alt="Liebe" src="https://github.com/user-attachments/assets/4748ded7-0995-4cea-8355-2806d6fe3896" />
     Olá! Sou o Patrick.
     <img width="60" alt="Bl" src="https://github.com/user-attachments/assets/b0ee1d1e-e8dc-48b3-ac15-75df2ccdcfa9" />
   </h3>
+  <P>Atualmente estudante de engenharia de software XD</P>
+</div>
 
+<h3 align="center">✦ Tecnologias ✦</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
